@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+}
+#heading{
+font-size: 45px;
+font-family:'Times New Roman', Times, serif;
+font-weight: bolder;
+color: #ff4765;
+}
+#search{
+    font-size: medium;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#button_s{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color:crimson;
+    background-color: #04151f;
+    border-color: #b56576;
+    font-size:small;
+    width: 40px;
+    
+}
+#name{
+    height: max-content;
+    font-weight:bolder;
+    color:teal;
+    font-family: 'Times New Roman', Times, serif;
+}
+#e_name{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color:crimson;
+    background-color: #04151f;
+    border-color: #b56576;
+    font-size:small;
+    width: 40px;
+}
+#label{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+#show{
+    background-color: transparent;
+    font-size:15px;
+    font-weight:bolder ;
+}
